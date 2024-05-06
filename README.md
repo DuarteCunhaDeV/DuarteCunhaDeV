@@ -1,5 +1,7 @@
 : About Me :
 
+I'm 18 years old, currently in Portugal. I'm a motivated programmer who wants to evolve and seek further opportunities to enhance my skills and knowledge, particularly in front-end development or mobile application development. I'm eager to contribute to projects that challenge me and allow me to grow in these areas.
+
 ---
 
 : My Stats :
